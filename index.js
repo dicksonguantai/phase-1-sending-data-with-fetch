@@ -1,7 +1,4 @@
 // Add your code here
-let name = "Dickson"
-let email = "dicksonguantai@gmail.com"
-
 
 function submitData(name,email){
 // const userDetails = {name,email};
